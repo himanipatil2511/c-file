@@ -6,7 +6,7 @@ Namespace inheretance
  {
     Public void info()
 {
-   String name = “harshali”;
+   String name = “himani”;
    String Class = “SYBCA”;
 Console.WriteLine(“student name :-“ +
 name);
